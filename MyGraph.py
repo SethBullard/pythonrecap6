@@ -6,4 +6,12 @@ plt.plot(x, np.sin(x))
 
 plt.show()
 
-print("Hi there!")
+print("Hello World!")
+
+#Create a virtual environment
+#Step 1 - create the environemnt
+#MAC: python3 -m venv
+#Step 2 - Activate the VE
+#MAC: source myvenv/bin/activate
+#Step 3: Install third party library or module
+#in this case: pip3 install matplotlib(or whatever library it is)
